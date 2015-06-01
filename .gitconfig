@@ -1,0 +1,7 @@
+[user]
+        name = Charles O'Farrell
+        email = charleso@charleso.org
+[alias]
+        graph = log --graph --oneline --decorate
+[push]
+        default = simple
